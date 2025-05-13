@@ -1,0 +1,1 @@
+import{X as a,g as r}from"./index-DoZiZmvY.js";const l=a("Smart-green-plant",()=>{const e=r([]);return{messages:e,$reset:()=>{e.value=[]},clearMessages:()=>{e.value=[]},addMessage:s=>{e.value.push(s)},loadMessages:()=>e.value}},{persist:!0});export{l as u};
