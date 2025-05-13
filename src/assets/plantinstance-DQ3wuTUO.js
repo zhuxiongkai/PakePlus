@@ -1,0 +1,1 @@
+import{W as n}from"./index-DoZiZmvY.js";const e=t=>n.get(`/plantinstance/${t}`),s=t=>n.post("/plantinstance/getAdvice",t),c=t=>n.post("/plantinstance/add",t),r=t=>n.delete(`/plantinstance/${t}`),d=t=>n.post("/plantinstance/update",t);export{e as a,c as b,r as d,s as g,d as u};
